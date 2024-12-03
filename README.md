@@ -347,22 +347,24 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         src="https://github-readme-stats.vercel.app/api?username=LeoSousaJesus&show_icons=true&theme=dark&hide&include_all_commits=true&locale=pt-br" 
     />
     <img
-        align="left" 
-        alt="Tecnologias Mais Usadas" 
-        height="200"
-        style="display: block; margin: 10px auto;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosousajesus&theme=dark&hide&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
-    <img
         align="left"
         alt="Gráfico de sequência semanal"
         height="200"
         style="display: block; margin: 10px auto;"
         src="https://streak-stats.demolab.com?user=LeoSousaJesus&locale=pt_BR&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3"
     />
+    <img
+        align="left" 
+        alt="Tecnologias Mais Usadas" 
+        height="200"
+        style="display: block; margin: 10px auto;"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosousajesus&theme=dark&hide&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
 </p>
 <br style="clear: both;" />
 <hr style="border: 1px solid #0078d4;"/>
+<br>
+<br>
 <br>
 <br>
 
