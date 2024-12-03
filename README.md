@@ -24,8 +24,6 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 - 💻 Estudando **Programação Full Stack (SENAI)**
 - 🌱 Atualmente estudando Desenvolvimento Web front-end
 
-<hr style="border: 1px solid #0078d4;"/>
-
 <br>
 
 ## 🔗 Vamos nos conectar / Let's connect
@@ -69,9 +67,6 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         />
     </a>
 </div>
-
-
-<hr style="border: 1px solid #0078d4;"/>
 
 <br>
 
