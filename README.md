@@ -331,6 +331,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 
 ### 📊 Estatísticas / Statistics
 
+<section>
 <p>
     <img
         align="left" 
@@ -354,10 +355,11 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         src="https://streak-stats.demolab.com?user=LeoSousaJesus&locale=pt_BR&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3"
     />
 </p>
+</section>
+
 <br style="clear: both;" />
 <hr style="border: 1px solid #0078d4;"/>
-<br>
-<br>
+
 
 ### 📈 Gráfico de Atividade / Activity Graph
 
