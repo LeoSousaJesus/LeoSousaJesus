@@ -97,12 +97,8 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
     alt="Flask" 
     title="Flask"
     width="30px" 
-    style="padding-right: 10px;" 
-<<<<<<< HEAD
+    style="padding-right: 10px;"
     src="img/flask-color.svg"
-=======
-    src="flask-color.svg"
->>>>>>> 99dae7a8bc663565da5a8d7acf6e42773d8d9986
 />
 <img 
     align="left" 
@@ -150,11 +146,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
     title="MediaPipe"
     width="30px" 
     style="padding-right: 10px;" 
-<<<<<<< HEAD
     src="img/mediapipe-color.svg"
-=======
-    src="mediapipe-color.svg"
->>>>>>> 99dae7a8bc663565da5a8d7acf6e42773d8d9986
 />
 <img 
     align="left" 
@@ -318,8 +310,4 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 
 ### 👁️ Visualizações do perfil
 
-<<<<<<< HEAD
 <img align="left" src="https://profile-counter.glitch.me/LeoSousaJesus/count.svg?"  />
-=======
-<img align="left" src="https://profile-counter.glitch.me/LeoSousaJesus/count.svg?"  />
->>>>>>> 99dae7a8bc663565da5a8d7acf6e42773d8d9986
