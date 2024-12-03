@@ -33,37 +33,30 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
     <a href="https://linkedin.com/in/seu-perfil" target="_blank">
         <img 
-            align="left"
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://medium.com/@seu-usuario" target="_blank">
         <img 
-            align="left"
             src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
     </a>
     <a href="https://linktr.ee/seu-usuario" target="_blank">
         <img 
-            align="left"
             src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
     </a>
     <a href="https://pinterest.com/seu-usuario" target="_blank">
         <img 
-            align="left"
             src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" />
     </a>
     <a href="https://spotify.com/seu-usuario" target="_blank">
         <img 
-            align="left"
             src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
     </a>
     <a href="https://kaggle.com/seu-usuario" target="_blank">
         <img 
-            align="left"
             src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=black&style=for-the-badge" height="30" alt="Kaggle" />
     </a>
     <a href="https://huggingface.co/seu-usuario" target="_blank">
         <img 
-            align="left"
             src="https://img.shields.io/badge/HuggingFace-%23FFAE00.svg?style=for-the-badge&logo=huggingface&logoColor=black" 
             height="30" alt="Hugging Face" 
         />
