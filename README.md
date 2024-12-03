@@ -98,7 +98,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
     title="Flask"
     width="30px" 
     style="padding-right: 10px;" 
-    src="flask-color.svg"
+    src="img/flask-color.svg"
 />
 <img 
     align="left" 
@@ -146,7 +146,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
     title="MediaPipe"
     width="30px" 
     style="padding-right: 10px;" 
-    src="mediapipe-color.svg"
+    src="img/mediapipe-color.svg"
 />
 <img 
     align="left" 
