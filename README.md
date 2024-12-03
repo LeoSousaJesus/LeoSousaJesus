@@ -30,7 +30,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 
 ## 🔗 Vamos nos conectar / Let's connect
 
-<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
     <a href="https://linkedin.com/in/seu-perfil" target="_blank">
         <img 
             align="left"
@@ -69,6 +69,8 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         />
     </a>
 </div>
+
+<hr style="border: 1px solid #0078d4; margin-top: 30px; margin-bottom: 30px;" />
 
 <br>
 
