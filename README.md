@@ -350,12 +350,13 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         align="left"
         alt="Gráfico de sequência semanal"
         height="150"
-        style="display: block; margin: 10px auto;"
+        style="display: block; margin: 15px auto;"
         src="https://streak-stats.demolab.com?user=LeoSousaJesus&locale=pt_BR&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3"
     />
 </p>
 <br style="clear: both;" />
 <hr style="border: 1px solid #0078d4;"/>
+<br>
 <br>
 
 ### 📈 Gráfico de Atividade / Activity Graph
