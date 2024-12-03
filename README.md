@@ -1,47 +1,67 @@
-# Olá, bem-vindo ao meu perfil no GitHub! 👋
+# Olá, bem-vindo ao meu perfil no GitHub! 👋 Hello, welcome to my GitHub profile!
 # 👩🏻‍💻 Leandro Sousa
 
-**`Desenvolvedor Full Stack Jr. baseado em Python`**
+**`Desenvolvedor Full Stack Jr. baseado em Python`** / **`Python-based Jr. Full Stack Developer`**
 
 <hr style="border: 1px solid #0078d4;"/>
 
-## 🚀 Sobre mim
+## 🚀 Sobre mim /About Me
 
 Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecnologia e inovação. Focado em linguagem **Python** com abordagem em  **Ciência de Dados** e **Inteligência Artificial** . Estou aprofundando meus conhecimentos em **Desenvolvimento Web**, **Machine Learning** e **Deep Learning**, buscando criar soluções impactantes com o advento da IA.
 
 <hr style="border: 1px solid #0078d4;"/>
 
-## 👩‍💻 Formação e Estudos
+## 👩‍💻 Formação e Estudos / Education and Studies
 - 🎓 Cursando **Graduação em Sistemas de Informação** pela **Universidade UNIPROJEÇÃO**
-- 🤖 **Desenvolvedor Python** (**SENAI**) 
+- 🤖 **Desenvolvedor Python** (**SENAI**)
 - 🧠 **Python Artificial Intelligence**  (**SENAI**)
-- 💻 Estudando **Programação Full Stack (SENAI)** 
-- 🌱 Atualmente estudando desenvolvimento front-end
+- 💻 Estudando **Programação Full Stack (SENAI)**
+- 🌱 Atualmente estudando Desenvolvimento Web front-end
 <br>
 <br>
 
 <hr style="border: 1px solid #0078d4;"/>
 
-## 🔗 Vamos nos conectar
+## 🔗 Vamos nos conectar / Let's connect
 
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
     <a href="https://linkedin.com/in/seu-perfil" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img 
+            align="left"
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://medium.com/@seu-usuario" target="_blank">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+        <img 
+            align="left"
+            src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
     </a>
     <a href="https://linktr.ee/seu-usuario" target="_blank">
-        <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+        <img 
+            align="left"
+            src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
     </a>
     <a href="https://pinterest.com/seu-usuario" target="_blank">
-        <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" />
+        <img 
+            align="left"
+            src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" />
     </a>
     <a href="https://spotify.com/seu-usuario" target="_blank">
-        <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+        <img 
+            align="left"
+            src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
     </a>
     <a href="https://kaggle.com/seu-usuario" target="_blank">
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=black&style=for-the-badge" height="30" alt="Kaggle" />
+        <img 
+            align="left"
+            src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=black&style=for-the-badge" height="30" alt="Kaggle" />
+    </a>
+    <a href="https://huggingface.co/seu-usuario" target="_blank">
+        <img 
+            align="left"
+            src="https://img.shields.io/badge/HuggingFace-%23FFAE00.svg?style=for-the-badge&logo=huggingface&logoColor=black" 
+            height="30" 
+            alt="Hugging Face" 
+        />
     </a>
 </div>
 
@@ -49,7 +69,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 <hr style="border: 1px solid #0078d4;"/>
 
 
-## 🔧 Habilidades e Tecnologias
+## 🔧 Habilidades e Tecnologias / Skills and Technologies
 <p>
     <a href="https://www.python.org/doc/" target="_blank">
         <img
@@ -309,34 +329,35 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 
 <hr style="border: 1px solid #0078d4;"/>
 
-### 📊 Estatísticas
+### 📊 Estatísticas / Statistics
 
-<center>
 <p>
-    <img 
+    <img
+        align="left" 
         alt="GitHub Stats" 
         height="200" 
         style="display: block; margin: 10px auto;" 
         src="https://github-readme-stats.vercel.app/api?username=LeoSousaJesus&show_icons=true&theme=dark&hide&include_all_commits=true&locale=pt-br" 
     />
     <img
-        alt="Gráfico de sequência semanal"
-        height="200"
-        style="display: block; margin: 10px auto;"
-        src="https://streak-stats.demolab.com?user=LeoSousaJesus&locale=pt_BR&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3"  
-    />
-    <img 
+        align="left" 
         alt="Tecnologias Mais Usadas" 
         height="200"
         style="display: block; margin: 10px auto;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosousajesus&theme=dark&hide&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
+    <img
+        align="center"
+        alt="Gráfico de sequência semanal"
+        height="200"
+        style="display: block; margin: 10px auto;"
+        src="https://streak-stats.demolab.com?user=LeoSousaJesus&locale=pt_BR&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3"
+    />
 </p>
-</center>
 <br style="clear: both;" />
 <hr style="border: 1px solid #0078d4;"/>
 
-### 📈 Gráfico de Atividade
+### 📈 Gráfico de Atividade / Activity Graph
 
 ---
 
@@ -347,7 +368,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 <hr style="border: 1px solid #0078d4;"/>
 
 
-### 🎸 Um pouco do meu gosto musical
+### 🎸 Um pouco do meu gosto musical / A little about my musical taste
 
 <div align="center">
   <a href="https://open.spotify.com/user/ninjabrasil">
@@ -358,6 +379,6 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 
 <hr style="border: 1px solid #0078d4;"/>
 
-### 👁️ Visualizações do perfil
+### 👁️ Visualizações do perfil / Profile Views
 
 <img align="left" src="https://profile-counter.glitch.me/LeoSousaJesus/count.svg?"  />
