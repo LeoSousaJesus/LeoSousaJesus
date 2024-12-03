@@ -1,4 +1,4 @@
-# Olá, bem-vindo ao meu perfil no GitHub! 👋 Hello, welcome to my GitHub profile!
+# Bem-vindo ao meu perfil no GitHub! 👋 Welcome to my GitHub profile!
 # 👩🏻‍💻 Leandro Sousa
 
 **`Desenvolvedor Full Stack Jr. baseado em Python`** / **`Python-based Jr. Full Stack Developer`**
@@ -331,35 +331,33 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 
 ### 📊 Estatísticas / Statistics
 
-<section>
 <p>
     <img
         align="left" 
         alt="GitHub Stats" 
-        height="150" 
-        style="display: block; margin: 15px auto;" 
+        height="120" 
+        style="display: block; margin: 10px auto;" 
         src="https://github-readme-stats.vercel.app/api?username=LeoSousaJesus&show_icons=true&theme=dark&hide&include_all_commits=true&locale=pt-br" 
     />
     <img
         align="left" 
         alt="Tecnologias Mais Usadas" 
-        height="150"
-        style="display: block; margin: 15px auto;"
+        height="120"
+        style="display: block; margin: 10px auto;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosousajesus&theme=dark&hide&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
     <img
         align="left"
         alt="Gráfico de sequência semanal"
-        height="150"
-        style="display: block; margin: 15px auto;"
+        height="120"
+        style="display: block; margin: 10px auto;"
         src="https://streak-stats.demolab.com?user=LeoSousaJesus&locale=pt_BR&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3"
     />
 </p>
-</section>
-
 <br style="clear: both;" />
 <hr style="border: 1px solid #0078d4;"/>
-
+<br>
+<br>
 
 ### 📈 Gráfico de Atividade / Activity Graph
 
