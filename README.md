@@ -289,6 +289,9 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 <hr style="border: 1px solid #0078d4;"/>
 <br>
 
+
+### 🎸 Um pouco do meu gosto musical
+
 <div align="center">
   <a href="https://open.spotify.com/user/ninjabrasil">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ninjabrasil&count=5&unique=false" alt="Spotify recently played"  />
