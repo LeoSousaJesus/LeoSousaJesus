@@ -287,7 +287,6 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
     />
 </p>
 <hr style="border: 1px solid #0078d4;"/>
-<br>
 
 
 ### 🎸 Um pouco do meu gosto musical
@@ -300,8 +299,6 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 
 
 <hr style="border: 1px solid #0078d4;"/>
-
-<br>
 
 ### 👁️ Visualizações do perfil
 
