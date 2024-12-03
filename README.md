@@ -356,6 +356,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 </p>
 <br style="clear: both;" />
 <hr style="border: 1px solid #0078d4;"/>
+<br>
 
 ### 📈 Gráfico de Atividade / Activity Graph
 
