@@ -24,21 +24,27 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 
 ## 🔗 Vamos nos conectar
 
-<center>
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+    <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://medium.com/@seu-usuario" target="_blank">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+    <a href="https://linktr.ee/seu-usuario" target="_blank">
+        <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+    </a>
+    <a href="https://pinterest.com/seu-usuario" target="_blank">
+        <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" />
+    </a>
+    <a href="https://spotify.com/seu-usuario" target="_blank">
+        <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+    </a>
+    <a href="https://kaggle.com/seu-usuario" target="_blank">
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=black&style=for-the-badge" height="30" alt="Kaggle" />
+    </a>
+</div>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-
-![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
-
-![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
-
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=black&style=for-the-badge" height="30" alt="kaggle logo"  />
-
-</center>
 
 <hr style="border: 1px solid #0078d4;"/>
 
@@ -46,7 +52,8 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 ## 🔧 Habilidades e Tecnologias
 <p>
     <a href="https://www.python.org/doc/" target="_blank">
-        <img 
+        <img
+            align="left"
             alt="Python" 
             title="Python"
             width="30px" 
@@ -55,7 +62,8 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         />
     </a>
     <a href="https://jupyter.org/" target="_blank">
-        <img 
+        <img
+            align="left"
             alt="Jupyter" 
             title="Jupyter"
             width="30px" 
@@ -64,7 +72,8 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         />
     </a>
     <a href="https://pandas.pydata.org/docs/" target="_blank">
-        <img 
+        <img
+            align="left"
             alt="Pandas" 
             title="Pandas"
             width="30px" 
@@ -73,7 +82,8 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         />
     </a>
     <a href="https://numpy.org/doc/" target="_blank">
-        <img 
+        <img
+            align="left"
             alt="Numpy" 
             title="Numpy"
             width="30px" 
@@ -82,7 +92,8 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         />
     </a>
     <a href="https://plotly.com/" target="_blank">
-        <img 
+        <img
+            align="left"
             alt="Plotly" 
             title="Plotly"
             width="30px" 
@@ -91,7 +102,8 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         />
     </a>
     <a href="https://matplotlib.org/stable/contents.html" target="_blank">
-        <img 
+        <img
+            align="left"
             alt="Matplotlib" 
             title="Matplotlib"
             width="30px" 
@@ -100,7 +112,8 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         />
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank">
-        <img 
+        <img
+            align="left"
             alt="Flask" 
             title="Flask"
             width="30px" 
@@ -109,7 +122,8 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         />
     </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank">
-        <img 
+        <img
+            align="left"
             alt="FastAPI" 
             title="FastAPI"
             width="30px" 
@@ -118,7 +132,8 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         />
     </a>
     <a href="https://docs.streamlit.io/" target="_blank">
-        <img 
+        <img
+            align="left"
             alt="Streamlit" 
             title="Streamlit"
             width="30px" 
@@ -127,7 +142,8 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         />
     </a>
     <a href="https://scikit-learn.org/stable/documentation.html" target="_blank">
-        <img 
+        <img
+            align="left"
             alt="Scikit-learn" 
             title="Scikit-learn"
             width="30px" 
@@ -136,7 +152,8 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         />
     </a>
     <a href="https://pytorch.org/docs/" target="_blank">
-        <img 
+        <img
+            align="left"
             alt="Pytorch" 
             title="Pytorch"
             width="30px" 
@@ -145,7 +162,8 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         />
     </a>
     <a href="https://www.tensorflow.org/learn" target="_blank">
-        <img 
+        <img
+            align="left"
             alt="TensorFlow" 
             title="TensorFlow"
             width="30px" 
@@ -154,7 +172,8 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         />
     </a>
     <a href="https://mediapipe.dev/" target="_blank">
-        <img 
+        <img
+            align="left"
             alt="MediaPipe" 
             title="MediaPipe"
             width="30px" 
@@ -162,8 +181,9 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             src="img/mediapipe-color.svg"
         />
     </a>
-    <a href="https://docs.opencv.org/" target="_blank">
-        <img 
+    <a href="https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html" target="_blank">
+        <img
+            align="left"
             alt="OpenCV" 
             title="OpenCV"
             width="30px" 
@@ -172,94 +192,115 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         />
     </a>
     <a href="https://www.markdownguide.org/" target="_blank">
-        <img 
+        <img
+            align="left"
             alt="Markdown" 
             title="Markdown"
             width="30px" 
-            style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" 
+            style="padding-right: 10px;"
+            src="img/markdown-color.svg"
         />
     </a>
-    <img 
-        align="left" 
-        alt="HTML"
-        title="HTML" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="CSS" 
-        title="CSS"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="JavaScript" 
-        title="JavaScript"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Bootstrap"
-        title="Bootstrap" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="MySQL"
-        title="MySQL" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Azure"
-        title="Azure" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="VScode" 
-        title="VScode"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Notion" 
-        title="Notion"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Trello" 
-        title="Trello"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Git" 
-        title="Git"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-    />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img 
+            align="left"
+            alt="HTML"
+            title="HTML" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+        />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img 
+            align="left" 
+            alt="CSS" 
+            title="CSS"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+        />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img 
+            align="left" 
+            alt="JavaScript" 
+            title="JavaScript"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+        />
+    </a>
+    <a href="https://getbootstrap.com/docs/" target="_blank">
+        <img 
+            align="left" 
+            alt="Bootstrap"
+            title="Bootstrap" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+        />
+    </a>
+    <a href="https://dev.mysql.com/doc/" target="_blank">
+        <img 
+            align="left" 
+            alt="MySQL"
+            title="MySQL" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+        />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/azure/" target="_blank">
+        <img 
+            align="left" 
+            alt="Azure"
+            title="Azure" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+        />
+    </a>
+    <a href="https://code.visualstudio.com/docs" target="_blank">
+        <img 
+            align="left" 
+            alt="VScode" 
+            title="VScode"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+        />
+    </a>
+    <a href="https://www.notion.so/help" target="_blank">
+        <img 
+            align="left" 
+            alt="Notion" 
+            title="Notion"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
+        />
+    </a>
+    <a href="https://trello.com/guide" target="_blank">
+        <img 
+            align="left" 
+            alt="Trello" 
+            title="Trello"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" 
+        />
+    </a>
+    <a href="https://git-scm.com/doc" target="_blank">
+        <img 
+            align="left" 
+            alt="Git" 
+            title="Git"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+        />
+    </a>
 </p>
 <br/>
 <br/>
@@ -270,6 +311,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 
 ### 📊 Estatísticas
 
+<center>
 <p>
     <img 
         alt="GitHub Stats" 
@@ -290,6 +332,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosousajesus&theme=dark&hide&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
 </p>
+</center>
 <br style="clear: both;" />
 <hr style="border: 1px solid #0078d4;"/>
 
