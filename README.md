@@ -336,6 +336,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         style="display: block; margin: 10px auto;" 
         src="https://github-readme-stats.vercel.app/api?username=LeoSousaJesus&show_icons=true&theme=dark&hide&include_all_commits=true&locale=pt-br" 
     />
+<br><br>
     <img
         align="center"
         alt="Gráfico de sequência semanal"
@@ -343,6 +344,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         style="display: block; margin: 10px auto;"
         src="https://streak-stats.demolab.com?user=LeoSousaJesus&locale=pt_BR&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3"
     />
+<br><br>
     <img
         align="center" 
         alt="Tecnologias Mais Usadas" 
