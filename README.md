@@ -1,9 +1,13 @@
 # Bem-vindo ao meu perfil no GitHub! 👋 Welcome to my GitHub profile!
+<br>
+
 # 👩🏻‍💻 Leandro Sousa
 
 **`Desenvolvedor Full Stack Jr. baseado em Python`** / **`Python-based Jr. Full Stack Developer`**
 
 <hr style="border: 1px solid #0078d4;"/>
+
+<br>
 
 ## 🚀 Sobre mim /About Me
 
@@ -11,16 +15,18 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 
 <hr style="border: 1px solid #0078d4;"/>
 
+<br>
+
 ## 👩‍💻 Formação e Estudos / Education and Studies
 - 🎓 Cursando **Graduação em Sistemas de Informação** pela **Universidade UNIPROJEÇÃO**
 - 🤖 **Desenvolvedor Python** (**SENAI**)
 - 🧠 **Python Artificial Intelligence**  (**SENAI**)
 - 💻 Estudando **Programação Full Stack (SENAI)**
 - 🌱 Atualmente estudando Desenvolvimento Web front-end
-<br>
-<br>
 
 <hr style="border: 1px solid #0078d4;"/>
+
+<br>
 
 ## 🔗 Vamos nos conectar / Let's connect
 
@@ -67,10 +73,12 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 
 
 <hr style="border: 1px solid #0078d4;"/>
+
 <br>
 
 ## 🔧 Habilidades e Tecnologias / Skills and Technologies
-<p>
+
+<div>
     <a href="https://www.python.org/doc/" target="_blank">
         <img
             align="left"
@@ -321,15 +329,15 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
         />
     </a>
-</p>
-<br/>
-<br/>
+</div>
+
+
+<br>
+<br>
 <br>
 <br>
 
-<hr style="border: 1px solid #0078d4;"/>
-
-### 📊 Estatísticas / Statistics
+## 📊 Estatísticas / Statistics
 
 <p>
     <img
@@ -359,9 +367,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 <br>
 <br>
 
-### 📈 Gráfico de Atividade / Activity Graph
-
----
+## 📈 Gráfico de Atividade / Activity Graph
 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoSousaJesus&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph" 
