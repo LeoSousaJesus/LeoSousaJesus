@@ -1,21 +1,14 @@
 # Bem-vindo ao meu perfil no GitHub! 👋 Welcome to my GitHub profile!
-<br>
 
 # 👩🏻‍💻 Leandro Sousa
 
 **`Desenvolvedor Full Stack Jr. baseado em Python`** / **`Python-based Jr. Full Stack Developer`**
-
-<hr style="border: 1px solid #0078d4;"/>
-
-<br>
 
 ## 🚀 Sobre mim /About Me
 
 Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecnologia e inovação. Focado em linguagem **Python** com abordagem em  **Ciência de Dados** e **Inteligência Artificial** . Estou aprofundando meus conhecimentos em **Desenvolvimento Web**, **Machine Learning** e **Deep Learning**, buscando criar soluções impactantes com o advento da IA.
 
 <hr style="border: 1px solid #0078d4;"/>
-
-<br>
 
 ## 👩‍💻 Formação e Estudos / Education and Studies
 - 🎓 Cursando **Graduação em Sistemas de Informação** pela **Universidade UNIPROJEÇÃO**
@@ -24,7 +17,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 - 💻 Estudando **Programação Full Stack (SENAI)**
 - 🌱 Atualmente estudando Desenvolvimento Web front-end
 
-<hr style="border: 1px solid #0078d4;"/>
+
 
 <br>
 
@@ -65,14 +58,9 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         <img 
             align="left"
             src="https://img.shields.io/badge/HuggingFace-%23FFAE00.svg?style=for-the-badge&logo=huggingface&logoColor=black" 
-            height="30" 
-            alt="Hugging Face" 
-        />
+            height="30" alt="Hugging Face" />
     </a>
 </div>
-
-
-<hr style="border: 1px solid #0078d4;"/>
 
 <br>
 
