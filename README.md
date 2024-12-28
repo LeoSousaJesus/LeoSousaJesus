@@ -120,6 +120,16 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" 
         />
     </a>
+    <a href="https://seaborn.pydata.org/" target="_blank">
+        <img
+            align="left"
+            alt="Seaborn" 
+            title="Seaborn"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="img/seaborn.svg"
+        />
+    </a>
     <a href="https://matplotlib.org/stable/contents.html" target="_blank">
         <img
             align="left"
