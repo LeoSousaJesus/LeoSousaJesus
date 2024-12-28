@@ -93,7 +93,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
     <a href="https://pandas.pydata.org/docs/" target="_blank">
         <img
             align="left"
-            alt="Pandas" 
+            alt="Pandas"
             title="Pandas"
             width="30px" 
             style="padding-right: 10px;" 
@@ -105,7 +105,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             align="left"
             alt="Numpy" 
             title="Numpy"
-            width="30px" 
+            width="30px"
             style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
         />
