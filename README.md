@@ -277,7 +277,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="MySQL" 
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://camo.githubusercontent.com/e6a8a6e6d48025fcc12fdc75d6352cb924f8aed16af2e610c02492630f4d79c2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2d776f72646d61726b2e737667" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
         />
     </a>
     <a href="https://learn.microsoft.com/en-us/azure/" target="_blank">
