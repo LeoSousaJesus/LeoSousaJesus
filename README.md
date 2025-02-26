@@ -22,7 +22,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 - 🤖 **Desenvolvedor Python** (**SENAI**)
 - 🧠 **Python Artificial Intelligence**  (**SENAI**)
 - 💻 Estudando **Programação Full Stack (SENAI)**
-- 🌱 Atualmente estudando Desenvolvimento Web front-end
+- 🌱 Atualmente estudando Desenvolvimento Web Front-end e Administração de Banco de Dados
 
 <hr style="border: 1px solid #0078d4;"/>
 
