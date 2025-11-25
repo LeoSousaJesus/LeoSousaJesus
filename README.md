@@ -327,7 +327,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title=".NET"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnet/dotnet-original.svg" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" 
         />
     </a>
     <a href="https://learn.microsoft.com/pt-br/cpp/?view=msvc-170" target="_blank">
