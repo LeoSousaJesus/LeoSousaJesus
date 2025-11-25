@@ -290,7 +290,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
         />
     </a>
-    <a href="" target="_blank">
+    <a href="https://reactnative.dev/docs/getting-started" target="_blank">
         <img 
             align="left" 
             alt="React Native" 
@@ -398,6 +398,16 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             width="30px" 
             style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+        />
+    </a>
+    <a href="https://developer.konghq.com/index/insomnia/" target="_blank">
+        <img 
+            align="left" 
+            alt="Insomnia" 
+            title="Insomnia"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" 
         />
     </a>
     <a href="https://www.notion.so/help" target="_blank">
