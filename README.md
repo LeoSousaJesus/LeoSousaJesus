@@ -80,6 +80,16 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
         />
     </a>
+    <a href="https://www.djangoproject.com/start/" target="_blank">
+        <img
+            align="left"
+            alt="Django" 
+            title="Django"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+        />
+    </a>
     <a href="https://jupyter.org/" target="_blank">
         <img
             align="left"
@@ -298,6 +308,16 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             width="30px" 
             style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+        />
+    </a>
+    <a href="https://learn.microsoft.com/pt-br/cpp/?view=msvc-170" target="_blank">
+        <img 
+            align="left" 
+            alt="C++" 
+            title="C++"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
         />
     </a>
     <a href="https://www.php.net/docs.php" target="_blank">
