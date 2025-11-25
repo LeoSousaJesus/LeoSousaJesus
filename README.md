@@ -480,16 +480,6 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
         />
     </a>
-    <a href="https://www.notion.so/help" target="_blank">
-        <img 
-            align="left" 
-            alt="Notion" 
-            title="Notion"
-            width="30px" 
-            style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
-        />
-    </a>
     <a href="https://help.figma.com/hc/pt-br" target="_blank">
         <img 
             align="left" 
@@ -498,6 +488,16 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             width="30px" 
             style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+        />
+    </a>
+    <a href="https://www.notion.so/help" target="_blank">
+        <img 
+            align="left" 
+            alt="Notion" 
+            title="Notion"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
         />
     </a>
     <a href="https://trello.com/guide" target="_blank">
