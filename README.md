@@ -260,6 +260,16 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
         />
     </a>
+    <a href="https://www.typescriptlang.org/docs/" target="_blank">
+        <img 
+            align="left" 
+            alt="Typescript" 
+            title="Typescript"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+        />
+    </a>
     <a href="https://getbootstrap.com/docs/" target="_blank">
         <img 
             align="left" 
@@ -268,6 +278,36 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             width="30px" 
             style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+        />
+    </a>
+    <a href="https://docs.oracle.com/en/java/" target="_blank">
+        <img 
+            align="left" 
+            alt="Java" 
+            title="Java"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+        />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+        <img 
+            align="left" 
+            alt="C#" 
+            title="CSharp"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+        />
+    </a>
+    <a href="https://www.php.net/docs.php" target="_blank">
+        <img 
+            align="left" 
+            alt="PHP" 
+            title="PHP"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
         />
     </a>
     <a href="https://dev.mysql.com/doc/" target="_blank">
@@ -330,6 +370,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
         />
     </a>
+    
 </div>
 <br><br><br><br>
 <hr style="border: 1px solid #0078d4;"/>
