@@ -390,6 +390,16 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
         />
     </a>
+    <a href="https://learn.microsoft.com/pt-br/sql/?view=sql-server-ver17" target="_blank">
+        <img 
+            align="left" 
+            alt="SQL Server"
+            title="SQL Server" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" 
+        />
+    </a>
     <a href="https://learn.microsoft.com/en-us/azure/" target="_blank">
         <img 
             align="left" 
