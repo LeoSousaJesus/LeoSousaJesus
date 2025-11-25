@@ -280,6 +280,16 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
         />
     </a>
+    <a href="https://nodejs.org/pt" target="_blank">
+        <img 
+            align="left" 
+            alt="NodeJS" 
+            title="NodeJS"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+        />
+    </a>
     <a href="https://angular.dev/overview" target="_blank">
         <img 
             align="left" 
@@ -420,6 +430,16 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
         />
     </a>
+    <a href="https://learn.microsoft.com/en-us/visualstudio/ide/?view=visualstudio" target="_blank">
+        <img 
+            align="left" 
+            alt="Visual Studio" 
+            title="Visual Studio"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
+        />
+    </a>
     <a href="https://developer.konghq.com/index/insomnia/" target="_blank">
         <img 
             align="left" 
@@ -448,6 +468,16 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             width="30px" 
             style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" 
+        />
+    </a>
+    <a href="https://www.selenium.dev/documentation/" target="_blank">
+        <img 
+            align="left" 
+            alt="Selenium" 
+            title="Selenium"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
         />
     </a>
     <a href="https://www.notion.so/help" target="_blank">
