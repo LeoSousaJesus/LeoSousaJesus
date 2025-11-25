@@ -300,6 +300,16 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
         />
     </a>
+    <a href="https://docs.spring.io/spring-boot/" target="_blank">
+        <img 
+            align="left" 
+            alt="Spring" 
+            title="Spring"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+        />
+    </a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
         <img 
             align="left" 
@@ -308,6 +318,16 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             width="30px" 
             style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+        />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank">
+        <img 
+            align="left" 
+            alt=".NET" 
+            title=".NET"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnet/dotnet-original.svg" 
         />
     </a>
     <a href="https://learn.microsoft.com/pt-br/cpp/?view=msvc-170" target="_blank">
