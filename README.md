@@ -69,65 +69,268 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 
 ## 🔧 Habilidades e Tecnologias / Skills and Technologies
 
-<div align="center">
-    <!-- Linguagens de Programação -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40px" style="padding: 5px;"/>
-</div> 
-    
-<div align="center"> 
-    <!-- Frameworks e Bibliotecas Web/Backend -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" title="Django" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" title="Flask" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" title="Spring" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnet/dotnet-original.svg" alt=".NET" title=".NET" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" title="Angular" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Native" title="React Native" width="40px" style="padding: 5px;"/>
-</div>   
-    
- <div align="center">   
-    <!-- Data Science e Machine Learning -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter Notebook" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" title="Numpy" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" title="Scikit-learn" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="Pytorch" title="Pytorch" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" alt="Plotly" title="Plotly" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" alt="Seaborn" title="Seaborn" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" title="Streamlit" width="40px" style="padding: 5px;"/>
-    <!-- Adicionado: Flet (Framework Python para Apps Desktop/Web) -->
-    <img src="https://raw.githubusercontent.com/flet-dev/flet/main/assets/logo/flet-logo-color.svg" alt="Flet" title="Flet" width="40px" style="padding: 5px;"/>
- </div>   
-    
-<div align="center">
-    <!-- Bancos de Dados e DevOps -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="40px" style="padding: 5px;"/>
- </div>   
-    
-<div align="center">
-    <!-- Outras Ferramentas -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" title="Notion" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="Trello" title="Trello" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" title="Markdown" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino" width="40px" style="padding: 5px;"/> 
+<div>
+    <a href="https://www.python.org/doc/" target="_blank">
+        <img
+            align="left"
+            alt="Python" 
+            title="Python"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+        />
+    </a>
+    <a href="https://jupyter.org/" target="_blank">
+        <img
+            align="left"
+            alt="Jupyter" 
+            title="Jupyter"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
+        />
+    </a>
+    <a href="https://pandas.pydata.org/docs/" target="_blank">
+        <img
+            align="left"
+            alt="Pandas"
+            title="Pandas"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+        />
+    </a>
+    <a href="https://numpy.org/doc/" target="_blank">
+        <img
+            align="left"
+            alt="Numpy" 
+            title="Numpy"
+            width="30px"
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
+        />
+    </a>
+    <a href="https://plotly.com/" target="_blank">
+        <img
+            align="left"
+            alt="Plotly" 
+            title="Plotly"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" 
+        />
+    </a>
+    <a href="https://seaborn.pydata.org/" target="_blank">
+        <img
+            align="left"
+            alt="Seaborn" 
+            title="Seaborn"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="img/seaborn.svg"
+        />
+    </a>
+    <a href="https://matplotlib.org/stable/contents.html" target="_blank">
+        <img
+            align="left"
+            alt="Matplotlib" 
+            title="Matplotlib"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
+        />
+    </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank">
+        <img
+            align="left"
+            alt="Flask" 
+            title="Flask"
+            width="30px" 
+            style="padding-right: 10px;"
+            src="img/flask-color.svg"
+        />
+    </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank">
+        <img
+            align="left"
+            alt="FastAPI" 
+            title="FastAPI"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
+        />
+    </a>
+    <a href="https://docs.streamlit.io/" target="_blank">
+        <img
+            align="left"
+            alt="Streamlit" 
+            title="Streamlit"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" 
+        />
+    </a>
+    <a href="https://scikit-learn.org/stable/documentation.html" target="_blank">
+        <img
+            align="left"
+            alt="Scikit-learn" 
+            title="Scikit-learn"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
+        />
+    </a>
+    <a href="https://pytorch.org/docs/" target="_blank">
+        <img
+            align="left"
+            alt="Pytorch" 
+            title="Pytorch"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" 
+        />
+    </a>
+    <a href="https://www.tensorflow.org/learn" target="_blank">
+        <img
+            align="left"
+            alt="TensorFlow" 
+            title="TensorFlow"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
+        />
+    </a>
+    <a href="https://mediapipe.dev/" target="_blank">
+        <img
+            align="left"
+            alt="MediaPipe" 
+            title="MediaPipe"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="img/mediapipe-color.svg"
+        />
+    </a>
+    <a href="https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html" target="_blank">
+        <img
+            align="left"
+            alt="OpenCV" 
+            title="OpenCV"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" 
+        />
+    </a>
+    <a href="https://www.markdownguide.org/" target="_blank">
+        <img
+            align="left"
+            alt="Markdown" 
+            title="Markdown"
+            width="30px" 
+            style="padding-right: 10px;"
+            src="img/markdown-color.svg"
+        />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img 
+            align="left"
+            alt="HTML"
+            title="HTML" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+        />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img 
+            align="left" 
+            alt="CSS" 
+            title="CSS"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+        />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img 
+            align="left" 
+            alt="JavaScript" 
+            title="JavaScript"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+        />
+    </a>
+    <a href="https://getbootstrap.com/docs/" target="_blank">
+        <img 
+            align="left" 
+            alt="Bootstrap"
+            title="Bootstrap" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+        />
+    </a>
+    <a href="https://dev.mysql.com/doc/" target="_blank">
+        <img 
+            align="left" 
+            alt="MySQL"
+            title="MySQL" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+        />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/azure/" target="_blank">
+        <img 
+            align="left" 
+            alt="Azure"
+            title="Azure" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+        />
+    </a>
+    <a href="https://code.visualstudio.com/docs" target="_blank">
+        <img 
+            align="left" 
+            alt="VScode" 
+            title="VScode"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+        />
+    </a>
+    <a href="https://www.notion.so/help" target="_blank">
+        <img 
+            align="left" 
+            alt="Notion" 
+            title="Notion"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
+        />
+    </a>
+    <a href="https://trello.com/guide" target="_blank">
+        <img 
+            align="left" 
+            alt="Trello" 
+            title="Trello"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" 
+        />
+    </a>
+    <a href="https://git-scm.com/doc" target="_blank">
+        <img 
+            align="left" 
+            alt="Git" 
+            title="Git"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+        />
+    </a>
 </div>
-
 <br><br><br><br>
 <hr style="border: 1px solid #0078d4;"/>
 
