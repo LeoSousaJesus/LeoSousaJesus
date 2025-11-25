@@ -360,6 +360,16 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
         />
     </a>
+    <a href="https://docs.arduino.cc/" target="_blank">
+        <img 
+            align="left" 
+            alt="Arduino" 
+            title="Arduino"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
+        />
+    </a>
     <a href="https://www.php.net/docs.php" target="_blank">
         <img 
             align="left" 
@@ -410,6 +420,26 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" 
         />
     </a>
+    <a href="https://jasmine.github.io/" target="_blank">
+        <img 
+            align="left" 
+            alt="Jasmine" 
+            title="Jasmine"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original.svg" 
+        />
+    </a>
+    <a href="https://jmeter.apache.org/usermanual/index.html" target="_blank">
+        <img 
+            align="left" 
+            alt="JMeter" 
+            title="JMeter"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" 
+        />
+    </a>
     <a href="https://www.notion.so/help" target="_blank">
         <img 
             align="left" 
@@ -418,6 +448,16 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             width="30px" 
             style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
+        />
+    </a>
+    <a href="https://help.figma.com/hc/pt-br" target="_blank">
+        <img 
+            align="left" 
+            alt="Figma" 
+            title="Figma"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
         />
     </a>
     <a href="https://trello.com/guide" target="_blank">
