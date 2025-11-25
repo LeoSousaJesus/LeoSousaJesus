@@ -80,9 +80,9 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40px" style="padding: 5px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" width="40px" style="padding: 5px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40px" style="padding: 5px;"/>
+</div> 
     
-    <br>
-    
+<div align="center"> 
     <!-- Frameworks e Bibliotecas Web/Backend -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" title="Django" width="40px" style="padding: 5px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" title="Flask" width="40px" style="padding: 5px;"/>
@@ -92,9 +92,9 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" title="Angular" width="40px" style="padding: 5px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40px" style="padding: 5px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Native" title="React Native" width="40px" style="padding: 5px;"/>
+</div>   
     
-    <br>
-    
+ <div align="center">   
     <!-- Data Science e Machine Learning -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter Notebook" width="40px" style="padding: 5px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="40px" style="padding: 5px;"/>
@@ -109,25 +109,25 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" title="Streamlit" width="40px" style="padding: 5px;"/>
     <!-- Adicionado: Flet (Framework Python para Apps Desktop/Web) -->
     <img src="https://raw.githubusercontent.com/flet-dev/flet/main/assets/logo/flet-logo-color.svg" alt="Flet" title="Flet" width="40px" style="padding: 5px;"/>
+ </div>   
     
-    <br>
-    
+<div align="center">
     <!-- Bancos de Dados e DevOps -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40px" style="padding: 5px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding: 5px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="40px" style="padding: 5px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="40px" style="padding: 5px;"/>
+ </div>   
     
-    <br>
-    
+<div align="center">
     <!-- Outras Ferramentas -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40px" style="padding: 5px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" title="Notion" width="40px" style="padding: 5px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="Trello" title="Trello" width="40px" style="padding: 5px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" title="Markdown" width="40px" style="padding: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino" width="40px" style="padding: 5px;"/>
-    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino" width="40px" style="padding: 5px;"/> 
 </div>
+
 <br><br><br><br>
 <hr style="border: 1px solid #0078d4;"/>
 
