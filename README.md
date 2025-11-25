@@ -280,6 +280,26 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
         />
     </a>
+    <a href="https://angular.dev/overview" target="_blank">
+        <img 
+            align="left" 
+            alt="Angular" 
+            title="Angular"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+        />
+    </a>
+    <a href="" target="_blank">
+        <img 
+            align="left" 
+            alt="React Native" 
+            title="React Native"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg"
+        />
+    </a>
     <a href="https://getbootstrap.com/docs/" target="_blank">
         <img 
             align="left" 
