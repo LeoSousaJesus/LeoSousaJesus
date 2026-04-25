@@ -592,4 +592,6 @@ Sou um desenvolvedor em constante aprendizado sobre os temas relacionados a tecn
 
 ### 👁️ Visualizações do perfil / Profile Views
 
-<img align="left" src="https://profile-counter.glitch.me/LeoSousaJesus/count.svg?"  />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/LeoSousaJesus/count.svg" alt="Profile Views" />
+</div>
