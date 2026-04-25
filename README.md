@@ -3,7 +3,7 @@
 
 # 👩🏻‍💻 Leandro Sousa
 
-**`Desenvolvedor Full Stack Jr. baseado em Python`** / **`Python-based Jr. Full Stack Developer`**
+**`Desenvolvedor Full Stack Jr.`** / **`Jr. Full Stack Developer`**
 
 <hr style="border: 1px solid #0078d4;"/>
 
@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mim /About Me
 
-Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecnologia e inovação. Focado em linguagem **Python** com abordagem em  **Ciência de Dados** e **Inteligência Artificial** . Estou aprofundando meus conhecimentos em **Desenvolvimento Web**, **Machine Learning** e **Deep Learning**, buscando criar soluções impactantes com o advento da IA.
+Sou um desenvolvedor em constante aprendizado sobre os temas relacionados a tecnologia. Focado em linguagem **Python** com abordagem em  **Ciência de Dados** e **Inteligência Artificial** . Estou aprofundando meus conhecimentos em **Desenvolvimento Web**, **Bancos de Dados**, **Machine Learning** e **Deep Learning**, buscando criar soluções impactantes com o advento da IA.
 
 <hr style="border: 1px solid #0078d4;"/>
 
@@ -21,8 +21,9 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 - 🎓 Cursando **Graduação em Sistemas de Informação** pela **Universidade UNIPROJEÇÃO**
 - 🤖 **Desenvolvedor Python** (**SENAI**)
 - 🧠 **Python Artificial Intelligence**  (**SENAI**)
-- 💻 Estudando **Programação Full Stack (SENAI)**
-- 🌱 Atualmente estudando Desenvolvimento Web Front-end e Administração de Banco de Dados
+- 💻 **Programador Full Stack (SENAI)**
+- 🔑 **Administrador de Banco de Dados** (**SENAI**)
+- 🌱 Atualmente estudando Desenvolvimento Front-end e Mobile com Java no Android Studio
 
 <hr style="border: 1px solid #0078d4;"/>
 
@@ -31,7 +32,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 ## 🔗 Vamos nos conectar / Let's connect
 
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
-    <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+    <a href="https://www.linkedin.com/in/leandro-sousa-de-jesus-885a48405/" target="_blank">
         <img 
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -43,11 +44,11 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         <img 
             src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
     </a>
-    <a href="https://pinterest.com/seu-usuario" target="_blank">
+    <a href="https://pin.it/5veZgd4Sq" target="_blank">
         <img 
             src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" />
     </a>
-    <a href="https://spotify.com/seu-usuario" target="_blank">
+    <a href="https://open.spotify.com/user/ninjabrasil?si=e6db447b59dc448e" target="_blank">
         <img 
             src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
     </a>
@@ -520,6 +521,16 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
         />
     </a>
+    <a href="https://github.com/features/actions" target="_blank">
+    <img 
+        align="left" 
+        alt="GitHub Actions" 
+        title="GitHub Actions"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.simpleicons.org/githubactions/2088FF" 
+    />
+</a>
     
 </div>
 <br><br><br><br>
