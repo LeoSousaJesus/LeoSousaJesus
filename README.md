@@ -592,6 +592,4 @@ Sou um desenvolvedor em constante aprendizado sobre os temas relacionados a tecn
 
 ### 👁️ Visualizações do perfil / Profile Views
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/LeoSousaJesus/count.svg" width="150" />
-</div>
+![](https://komarev.com/ghpvc/?username=LeoSousaJesus&color=blue&style=flat-square&label=VISITAS )
