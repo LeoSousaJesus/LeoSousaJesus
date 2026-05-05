@@ -583,12 +583,14 @@ Sou um desenvolvedor em constante aprendizado sobre os temas relacionados a tecn
 
 ## 📈 Gráfico de Atividade / Activity Graph
 
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoSousaJesus&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph" 
-    />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoSousaJesus/LeoSousaJesus/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoSousaJesus/LeoSousaJesus/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeoSousaJesus/LeoSousaJesus/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 <hr style="border: 1px solid #0078d4;"/>
-
 
 ### 🎸 Um pouco do meu gosto musical / A little about my musical taste
 
