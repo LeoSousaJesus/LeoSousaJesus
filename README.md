@@ -546,7 +546,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas relacionados a tecn
         alt="GitHub Stats" 
         height="200" 
         style="display: block; margin: 10px auto;" 
-        src="https://github-readme-stats.vercel.app/api?username=LeoSousaJesus&show_icons=true&theme=dark&hide&include_all_commits=true&locale=pt-br" 
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=LeoSousaJesus&show_icons=true&theme=dark&hide&include_all_commits=true&locale=pt-br" 
     />
 <br><br>
     <img
@@ -562,7 +562,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas relacionados a tecn
         alt="Tecnologias Mais Usadas" 
         height="200"
         style="display: block; margin: 10px auto;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosousajesus&theme=dark&hide&layout=compact&custom_title=Tecnologias&langs_count=9" 
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leosousajesus&theme=dark&hide&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
 </p>
 <br style="clear: both;" />
