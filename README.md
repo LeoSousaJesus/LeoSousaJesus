@@ -538,6 +538,17 @@ Sou um desenvolvedor em constante aprendizado sobre os temas relacionados a tecn
 
 <br>
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=LeoSousaJesus&theme=onedark&column=-1&margin-w=15&no-bg=true" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<hr style="border: 1px solid #0078d4;"/>
+
+<br>
+
 ## 📊 Estatísticas / Statistics
 
 <p>
