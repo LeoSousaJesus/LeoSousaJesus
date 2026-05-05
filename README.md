@@ -592,4 +592,6 @@ Sou um desenvolvedor em constante aprendizado sobre os temas relacionados a tecn
 
 ### 👁️ Visualizações do perfil / Profile Views
 
-![](https://komarev.com/ghpvc/?username=LeoSousaJesus&color=blue&style=flat-square&label=VISITAS )
+<div align="center">
+  <img src="https://count.getloli.com/get/@LeoSousaJesus?theme=moebooru" alt="LeoSousaJesus" />
+</div>
