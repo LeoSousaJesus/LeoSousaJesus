@@ -534,16 +534,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas relacionados a tecn
     
 </div>
 <br><br><br><br>
-<hr style="border: 1px solid #0078d4;"/>
 
-<br>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LeoSousaJesus&theme=onedark&column=-1&margin-w=15&no-bg=true" alt="GitHub Trophies" />
-  </a>
-</p>
 
 <hr style="border: 1px solid #0078d4;"/>
 
@@ -580,27 +571,6 @@ Sou um desenvolvedor em constante aprendizado sobre os temas relacionados a tecn
 <hr style="border: 1px solid #0078d4;"/>
 
 <br>
-
-## 📈 Gráfico de Atividade / Activity Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoSousaJesus/LeoSousaJesus/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoSousaJesus/LeoSousaJesus/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeoSousaJesus/LeoSousaJesus/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
-<hr style="border: 1px solid #0078d4;"/>
-
-
-### 🎸 Um pouco do meu gosto musical / A little about my musical taste
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ninjabrasil">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ninjabrasil&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
 
 <hr style="border: 1px solid #0078d4;"/>
 
