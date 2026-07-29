@@ -518,12 +518,33 @@ Sou um desenvolvedor em constante aprendizado sobre os temas relacionados a tecn
             title="Git"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+            src="img/git-anim.svg" 
         />
     </a>
+    <a href="https://github.com/features/actions" target="_blank">
+    <img 
+        align="left" 
+        alt="GitHub Actions" 
+        title="GitHub Actions"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="img/githubactions-anim.svg" 
+    />
+</a>
     
 </div>
 <br><br><br><br>
+<hr style="border: 1px solid #0078d4;"/>
+
+<br>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="./trophy.svg" alt="GitHub Trophies" />
+  </a>
+</p>
+
 <hr style="border: 1px solid #0078d4;"/>
 
 <br>
