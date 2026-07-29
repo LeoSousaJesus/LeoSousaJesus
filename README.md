@@ -570,10 +570,6 @@ Sou um desenvolvedor em constante aprendizado sobre os temas relacionados a tecn
 <br style="clear: both;" />
 <hr style="border: 1px solid #0078d4;"/>
 
-<br>
-
-<hr style="border: 1px solid #0078d4;"/>
-
 ### 👁️ Visualizações do perfil / Profile Views
 
 <div align="center">
