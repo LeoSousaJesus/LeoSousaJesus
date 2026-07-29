@@ -3,7 +3,7 @@
 
 # 👩🏻‍💻 Leandro Sousa
 
-**`Desenvolvedor Full Stack Jr. baseado em Python`** / **`Python-based Jr. Full Stack Developer`**
+**`Desenvolvedor Full Stack Jr.`** / **`Jr. Full Stack Developer`**
 
 <hr style="border: 1px solid #0078d4;"/>
 
@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mim /About Me
 
-Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecnologia e inovação. Focado em linguagem **Python** com abordagem em  **Ciência de Dados** e **Inteligência Artificial** . Estou aprofundando meus conhecimentos em **Desenvolvimento Web**, **Machine Learning** e **Deep Learning**, buscando criar soluções impactantes com o advento da IA.
+Sou um desenvolvedor em constante aprendizado sobre os temas relacionados a tecnologia. Focado em linguagem **Python** com abordagem em  **Ciência de Dados** e **Inteligência Artificial** . Estou aprofundando meus conhecimentos em **Desenvolvimento Web**, **Bancos de Dados**, **Machine Learning** e **Deep Learning**, buscando criar soluções impactantes com o advento da IA.
 
 <hr style="border: 1px solid #0078d4;"/>
 
@@ -21,8 +21,9 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 - 🎓 Cursando **Graduação em Sistemas de Informação** pela **Universidade UNIPROJEÇÃO**
 - 🤖 **Desenvolvedor Python** (**SENAI**)
 - 🧠 **Python Artificial Intelligence**  (**SENAI**)
-- 💻 Estudando **Programação Full Stack (SENAI)**
-- 🌱 Atualmente estudando Desenvolvimento Web Front-end e Administração de Banco de Dados
+- 💻 **Programador Full Stack (SENAI)**
+- 🔑 **Administrador de Banco de Dados** (**SENAI**)
+- 🌱 Atualmente estudando Desenvolvimento Front-end e Mobile com Java no Android Studio
 
 <hr style="border: 1px solid #0078d4;"/>
 
@@ -31,7 +32,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 ## 🔗 Vamos nos conectar / Let's connect
 
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
-    <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+    <a href="https://www.linkedin.com/in/leandro-sousa-de-jesus-885a48405/" target="_blank">
         <img 
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -43,11 +44,11 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         <img 
             src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
     </a>
-    <a href="https://pinterest.com/seu-usuario" target="_blank">
+    <a href="https://pin.it/5veZgd4Sq" target="_blank">
         <img 
             src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" />
     </a>
-    <a href="https://spotify.com/seu-usuario" target="_blank">
+    <a href="https://open.spotify.com/user/ninjabrasil?si=e6db447b59dc448e" target="_blank">
         <img 
             src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
     </a>
@@ -77,7 +78,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Python"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+            src="img/python-anim.svg" 
         />
     </a>
     <a href="https://www.djangoproject.com/start/" target="_blank">
@@ -87,7 +88,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Django"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+            src="img/django-anim.svg" 
         />
     </a>
     <a href="https://jupyter.org/" target="_blank">
@@ -97,7 +98,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Jupyter"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
+            src="img/jupyter-anim.svg" 
         />
     </a>
     <a href="https://pandas.pydata.org/docs/" target="_blank">
@@ -107,7 +108,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Pandas"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+            src="img/pandas-anim.svg" 
         />
     </a>
     <a href="https://numpy.org/doc/" target="_blank">
@@ -117,7 +118,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Numpy"
             width="30px"
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
+            src="img/numpy-anim.svg" 
         />
     </a>
     <a href="https://plotly.com/" target="_blank">
@@ -127,7 +128,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Plotly"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" 
+            src="img/plotly-anim.svg" 
         />
     </a>
     <a href="https://seaborn.pydata.org/" target="_blank">
@@ -137,7 +138,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Seaborn"
             width="30px" 
             style="padding-right: 10px;" 
-            src="img/seaborn.svg"
+            src="img/seaborn-anim.svg"
         />
     </a>
     <a href="https://matplotlib.org/stable/contents.html" target="_blank">
@@ -147,7 +148,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Matplotlib"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
+            src="img/matplotlib-anim.svg" 
         />
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank">
@@ -157,7 +158,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Flask"
             width="30px" 
             style="padding-right: 10px;"
-            src="img/flask-color.svg"
+            src="img/flask-color-anim.svg"
         />
     </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank">
@@ -167,7 +168,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="FastAPI"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
+            src="img/fastapi-anim.svg" 
         />
     </a>
     <a href="https://docs.streamlit.io/" target="_blank">
@@ -177,7 +178,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Streamlit"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" 
+            src="img/streamlit-anim.svg" 
         />
     </a>
     <a href="https://scikit-learn.org/stable/documentation.html" target="_blank">
@@ -187,7 +188,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Scikit-learn"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
+            src="img/scikitlearn-anim.svg" 
         />
     </a>
     <a href="https://pytorch.org/docs/" target="_blank">
@@ -197,7 +198,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Pytorch"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" 
+            src="img/pytorch-anim.svg" 
         />
     </a>
     <a href="https://www.tensorflow.org/learn" target="_blank">
@@ -207,7 +208,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="TensorFlow"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
+            src="img/tensorflow-anim.svg" 
         />
     </a>
     <a href="https://mediapipe.dev/" target="_blank">
@@ -217,7 +218,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="MediaPipe"
             width="30px" 
             style="padding-right: 10px;" 
-            src="img/mediapipe-color.svg"
+            src="img/mediapipe-color-anim.svg"
         />
     </a>
     <a href="https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html" target="_blank">
@@ -227,7 +228,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="OpenCV"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" 
+            src="img/opencv-anim.svg" 
         />
     </a>
     <a href="https://www.markdownguide.org/" target="_blank">
@@ -237,7 +238,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Markdown"
             width="30px" 
             style="padding-right: 10px;"
-            src="img/markdown-color.svg"
+            src="img/markdown-color-anim.svg"
         />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -247,7 +248,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="HTML" 
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+            src="img/html5-anim.svg" 
         />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
@@ -257,7 +258,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="CSS"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+            src="img/css3-anim.svg" 
         />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -267,7 +268,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="JavaScript"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+            src="img/javascript-anim.svg" 
         />
     </a>
     <a href="https://www.typescriptlang.org/docs/" target="_blank">
@@ -277,7 +278,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Typescript"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+            src="img/typescript-anim.svg" 
         />
     </a>
     <a href="https://nodejs.org/pt" target="_blank">
@@ -287,7 +288,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="NodeJS"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+            src="img/nodejs-anim.svg" 
         />
     </a>
     <a href="https://angular.dev/overview" target="_blank">
@@ -297,7 +298,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Angular"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+            src="img/angular-anim.svg"
         />
     </a>
     <a href="https://reactnative.dev/docs/getting-started" target="_blank">
@@ -307,7 +308,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="React Native"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg"
+            src="img/reactnative-anim.svg"
         />
     </a>
     <a href="https://getbootstrap.com/docs/" target="_blank">
@@ -317,7 +318,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Bootstrap" 
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+            src="img/bootstrap-anim.svg" 
         />
     </a>
     <a href="https://docs.oracle.com/en/java/" target="_blank">
@@ -327,7 +328,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Java"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+            src="img/java-anim.svg" 
         />
     </a>
     <a href="https://docs.spring.io/spring-boot/" target="_blank">
@@ -337,7 +338,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Spring"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+            src="img/spring-anim.svg" 
         />
     </a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
@@ -347,7 +348,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="CSharp"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+            src="img/csharp-anim.svg" 
         />
     </a>
     <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank">
@@ -357,7 +358,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title=".NET"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" 
+            src="img/dot-net-anim.svg" 
         />
     </a>
     <a href="https://learn.microsoft.com/pt-br/cpp/?view=msvc-170" target="_blank">
@@ -367,7 +368,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="C++"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+            src="img/cplusplus-anim.svg" 
         />
     </a>
     <a href="https://docs.arduino.cc/" target="_blank">
@@ -377,7 +378,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Arduino"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
+            src="img/arduino-anim.svg" 
         />
     </a>
     <a href="https://www.php.net/docs.php" target="_blank">
@@ -387,7 +388,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="PHP"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+            src="img/php-anim.svg" 
         />
     </a>
     <a href="https://dev.mysql.com/doc/" target="_blank">
@@ -397,7 +398,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="MySQL" 
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+            src="img/mysql-anim.svg" 
         />
     </a>
     <a href="https://learn.microsoft.com/pt-br/sql/?view=sql-server-ver17" target="_blank">
@@ -407,7 +408,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="SQL Server" 
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" 
+            src="img/microsoftsqlserver-anim.svg" 
         />
     </a>
     <a href="https://learn.microsoft.com/en-us/azure/" target="_blank">
@@ -417,7 +418,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Azure" 
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+            src="img/azure-anim.svg" 
         />
     </a>
     <a href="https://code.visualstudio.com/docs" target="_blank">
@@ -427,7 +428,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="VScode"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+            src="img/vscode-anim.svg" 
         />
     </a>
     <a href="https://learn.microsoft.com/en-us/visualstudio/ide/?view=visualstudio" target="_blank">
@@ -437,7 +438,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Visual Studio"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
+            src="img/visualstudio-anim.svg" 
         />
     </a>
     <a href="https://developer.konghq.com/index/insomnia/" target="_blank">
@@ -447,7 +448,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Insomnia"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" 
+            src="img/insomnia-anim.svg" 
         />
     </a>
     <a href="https://jasmine.github.io/" target="_blank">
@@ -457,7 +458,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Jasmine"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original.svg" 
+            src="img/jasmine-anim.svg" 
         />
     </a>
     <a href="https://jmeter.apache.org/usermanual/index.html" target="_blank">
@@ -467,7 +468,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="JMeter"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" 
+            src="img/apache-anim.svg" 
         />
     </a>
     <a href="https://www.selenium.dev/documentation/" target="_blank">
@@ -477,7 +478,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Selenium"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
+            src="img/selenium-anim.svg" 
         />
     </a>
     <a href="https://help.figma.com/hc/pt-br" target="_blank">
@@ -487,7 +488,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Figma"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+            src="img/figma-anim.svg" 
         />
     </a>
     <a href="https://www.notion.so/help" target="_blank">
@@ -497,7 +498,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Notion"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
+            src="img/notion-anim.svg" 
         />
     </a>
     <a href="https://trello.com/guide" target="_blank">
@@ -507,7 +508,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Trello"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" 
+            src="img/trello-anim.svg" 
         />
     </a>
     <a href="https://git-scm.com/doc" target="_blank">
@@ -517,12 +518,33 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
             title="Git"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+            src="img/git-anim.svg" 
         />
     </a>
+    <a href="https://github.com/features/actions" target="_blank">
+    <img 
+        align="left" 
+        alt="GitHub Actions" 
+        title="GitHub Actions"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="img/githubactions-anim.svg" 
+    />
+</a>
     
 </div>
 <br><br><br><br>
+<hr style="border: 1px solid #0078d4;"/>
+
+<br>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="./trophy.svg" alt="GitHub Trophies" />
+  </a>
+</p>
+
 <hr style="border: 1px solid #0078d4;"/>
 
 <br>
@@ -535,7 +557,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         alt="GitHub Stats" 
         height="200" 
         style="display: block; margin: 10px auto;" 
-        src="https://github-readme-stats.vercel.app/api?username=LeoSousaJesus&show_icons=true&theme=dark&hide&include_all_commits=true&locale=pt-br" 
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=LeoSousaJesus&show_icons=true&theme=dark&hide&include_all_commits=true&locale=pt-br" 
     />
 <br><br>
     <img
@@ -551,7 +573,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
         alt="Tecnologias Mais Usadas" 
         height="200"
         style="display: block; margin: 10px auto;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosousajesus&theme=dark&hide&layout=compact&custom_title=Tecnologias&langs_count=9" 
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leosousajesus&theme=dark&hide&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
 </p>
 <br style="clear: both;" />
@@ -567,12 +589,11 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 </p>
 <hr style="border: 1px solid #0078d4;"/>
 
-
 ### 🎸 Um pouco do meu gosto musical / A little about my musical taste
 
 <div align="center">
   <a href="https://open.spotify.com/user/ninjabrasil">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ninjabrasil&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ninjabrasil&count=10" alt="Spotify recently played"  />
   </a>
 </div>
 
@@ -581,4 +602,6 @@ Sou um desenvolvedor em constante aprendizado sobre os temas programação, tecn
 
 ### 👁️ Visualizações do perfil / Profile Views
 
-<img align="left" src="https://profile-counter.glitch.me/LeoSousaJesus/count.svg?"  />
+<div align="center">
+  <img src="https://count.getloli.com/get/@LeoSousaJesus?theme=moebooru" alt="LeoSousaJesus" />
+</div>

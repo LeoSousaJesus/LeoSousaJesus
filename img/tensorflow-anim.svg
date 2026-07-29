@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" width="40" height="40">
+  <style>
+    .icon-float {
+      animation: icon-float 2.6s ease-in-out infinite;
+      animation-delay: 0.75s;
+      transform-origin: 20px 20px;
+    }
+    @keyframes icon-float {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-5px); }
+    }
+  </style>
+  <image class="icon-float" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" xlink:href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" x="2" y="2" width="36" height="36" preserveAspectRatio="xMidYMid meet" />
+</svg>
