@@ -1,188 +1,577 @@
-<!-- TOP BANNER -->
-<p align="center">
-  <img src="img/banner.png" alt="Leandro Sousa Banner" width="100%">
-</p>
-
-<!-- TYPING EFFECT GREETING -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Leandro+Sousa!+👋;Jr.+Full+Stack+Developer;AI+%26+Data+Science+Enthusiast;Python+Developer" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- SOCIAL LINKS (ELEGANT FLOATING BADGES) -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/leandro-sousa-de-jesus-885a48405/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@seu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  &nbsp;
-  <a href="https://linktr.ee/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
-  </a>
-  &nbsp;
-  <a href="https://pin.it/5veZgd4Sq" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
-  </a>
-  &nbsp;
-  <a href="https://open.spotify.com/user/ninjabrasil?si=e6db447b59dc448e" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  </a>
-  &nbsp;
-  <a href="https://kaggle.com/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=black" alt="Kaggle" />
-  </a>
-  &nbsp;
-  <a href="https://huggingface.co/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/HuggingFace-FFAE00?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  </a>
-</p>
-
-<hr style="border: 1px solid #1E293B;" />
-
-<!-- ABOUT ME & EDUCATION IN TWO COLUMNS -->
-## 👤 Apresentação & Formação / About Me & Education
-
-<table border="0" width="100%">
-  <tr>
-    <td width="30%" align="center" valign="top">
-      <img src="img/avatar.png" alt="Leandro Avatar" width="160px" style="border-radius: 50%; border: 3px solid #00F2FE;" />
-      <br><br>
-      <strong>Leandro Sousa de Jesus</strong><br>
-      <sub>📍 Brasília, DF, Brasil</sub>
-    </td>
-    <td width="70%" valign="top">
-      <h3>🚀 Sobre mim</h3>
-      <p>
-        Sou um desenvolvedor em constante aprendizado sobre temas de tecnologia, com foco especial na linguagem <strong>Python</strong> aplicada a <strong>Ciência de Dados</strong> e <strong>Inteligência Artificial</strong>. Atualmente, aprofundo meus conhecimentos em Desenvolvimento Web, Bancos de Dados, Machine Learning e Deep Learning, buscando criar soluções inovadoras impulsionadas por IA.
-      </p>
-      <h3>🎓 Formação e Estudos</h3>
-      <ul>
-        <li>🎓 Cursando <strong>Graduação em Sistemas de Informação</strong> — <em>Universidade UNIPROJEÇÃO</em></li>
-        <li>🤖 <strong>Desenvolvedor Python & IA</strong> — <em>SENAI</em></li>
-        <li>💻 <strong>Programador Full Stack</strong> — <em>SENAI</em></li>
-        <li>🔑 <strong>Administrador de Banco de Dados</strong> — <em>SENAI</em></li>
-        <li>🌱 Atualmente focado em <strong>Front-end e Mobile com Java</strong> no Android Studio</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<hr style="border: 1px solid #1E293B;" />
-
-## 🛠️ Tecnologias e Habilidades / Tech Stack
-
-Aqui estão as ferramentas e tecnologias com as quais trabalho. Passe o mouse sobre os ícones para vê-los em ação! (Eles flutuam suavemente 🎈)
-
-### 💻 Desenvolvimento Web & Back-End
-<p align="left">
-  <img src="img/python-anim.svg" width="48" height="48" alt="Python" title="Python"/> &nbsp;
-  <img src="img/django-anim.svg" width="48" height="48" alt="Django" title="Django"/> &nbsp;
-  <img src="img/flask-color-anim.svg" width="48" height="48" alt="Flask" title="Flask"/> &nbsp;
-  <img src="img/fastapi-anim.svg" width="48" height="48" alt="FastAPI" title="FastAPI"/> &nbsp;
-  <img src="img/nodejs-anim.svg" width="48" height="48" alt="Node.js" title="Node.js"/> &nbsp;
-  <img src="img/typescript-anim.svg" width="48" height="48" alt="TypeScript" title="TypeScript"/> &nbsp;
-  <img src="img/javascript-anim.svg" width="48" height="48" alt="JavaScript" title="JavaScript"/> &nbsp;
-  <img src="img/java-anim.svg" width="48" height="48" alt="Java" title="Java"/> &nbsp;
-  <img src="img/spring-anim.svg" width="48" height="48" alt="Spring" title="Spring"/> &nbsp;
-  <img src="img/csharp-anim.svg" width="48" height="48" alt="C#" title="C#"/> &nbsp;
-  <img src="img/dot-net-anim.svg" width="48" height="48" alt=".NET" title=".NET"/> &nbsp;
-  <img src="img/php-anim.svg" width="48" height="48" alt="PHP" title="PHP"/>
-</p>
-
-### 🧠 Inteligência Artificial & Ciência de Dados
-<p align="left">
-  <img src="img/jupyter-anim.svg" width="48" height="48" alt="Jupyter Notebook" title="Jupyter Notebook"/> &nbsp;
-  <img src="img/pandas-anim.svg" width="48" height="48" alt="Pandas" title="Pandas"/> &nbsp;
-  <img src="img/numpy-anim.svg" width="48" height="48" alt="NumPy" title="NumPy"/> &nbsp;
-  <img src="img/pytorch-anim.svg" width="48" height="48" alt="PyTorch" title="PyTorch"/> &nbsp;
-  <img src="img/tensorflow-anim.svg" width="48" height="48" alt="TensorFlow" title="TensorFlow"/> &nbsp;
-  <img src="img/scikitlearn-anim.svg" width="48" height="48" alt="Scikit-Learn" title="Scikit-Learn"/> &nbsp;
-  <img src="img/opencv-anim.svg" width="48" height="48" alt="OpenCV" title="OpenCV"/> &nbsp;
-  <img src="img/mediapipe-color-anim.svg" width="48" height="48" alt="MediaPipe" title="MediaPipe"/> &nbsp;
-  <img src="img/plotly-anim.svg" width="48" height="48" alt="Plotly" title="Plotly"/> &nbsp;
-  <img src="img/seaborn-anim.svg" width="48" height="48" alt="Seaborn" title="Seaborn"/> &nbsp;
-  <img src="img/matplotlib-anim.svg" width="48" height="48" alt="Matplotlib" title="Matplotlib"/> &nbsp;
-  <img src="img/streamlit-anim.svg" width="48" height="48" alt="Streamlit" title="Streamlit"/>
-</p>
-
-### 📱 Front-End & Mobile
-<p align="left">
-  <img src="img/angular-anim.svg" width="48" height="48" alt="Angular" title="Angular"/> &nbsp;
-  <img src="img/reactnative-anim.svg" width="48" height="48" alt="React Native" title="React Native"/> &nbsp;
-  <img src="img/html5-anim.svg" width="48" height="48" alt="HTML5" title="HTML5"/> &nbsp;
-  <img src="img/css3-anim.svg" width="48" height="48" alt="CSS3" title="CSS3"/> &nbsp;
-  <img src="img/bootstrap-anim.svg" width="48" height="48" alt="Bootstrap" title="Bootstrap"/> &nbsp;
-  <img src="img/figma-anim.svg" width="48" height="48" alt="Figma" title="Figma"/>
-</p>
-
-### 🗄️ Banco de Dados & Infraestrutura Cloud
-<p align="left">
-  <img src="img/mysql-anim.svg" width="48" height="48" alt="MySQL" title="MySQL"/> &nbsp;
-  <img src="img/microsoftsqlserver-anim.svg" width="48" height="48" alt="SQL Server" title="SQL Server"/> &nbsp;
-  <img src="img/azure-anim.svg" width="48" height="48" alt="Azure" title="Azure"/>
-</p>
-
-### ⚙️ Ferramentas, Testes & Outros
-<p align="left">
-  <img src="img/vscode-anim.svg" width="48" height="48" alt="VS Code" title="VS Code"/> &nbsp;
-  <img src="img/visualstudio-anim.svg" width="48" height="48" alt="Visual Studio" title="Visual Studio"/> &nbsp;
-  <img src="img/git-anim.svg" width="48" height="48" alt="Git" title="Git"/> &nbsp;
-  <img src="img/githubactions-anim.svg" width="48" height="48" alt="GitHub Actions" title="GitHub Actions"/> &nbsp;
-  <img src="img/insomnia-anim.svg" width="48" height="48" alt="Insomnia" title="Insomnia"/> &nbsp;
-  <img src="img/jasmine-anim.svg" width="48" height="48" alt="Jasmine" title="Jasmine"/> &nbsp;
-  <img src="img/selenium-anim.svg" width="48" height="48" alt="Selenium" title="Selenium"/> &nbsp;
-  <img src="img/apache-anim.svg" width="48" height="48" alt="JMeter" title="JMeter"/> &nbsp;
-  <img src="img/arduino-anim.svg" width="48" height="48" alt="Arduino" title="Arduino"/> &nbsp;
-  <img src="img/notion-anim.svg" width="48" height="48" alt="Notion" title="Notion"/> &nbsp;
-  <img src="img/trello-anim.svg" width="48" height="48" alt="Trello" title="Trello"/> &nbsp;
-  <img src="img/markdown-color-anim.svg" width="48" height="48" alt="Markdown" title="Markdown"/>
-</p>
-
-<hr style="border: 1px solid #1E293B;" />
-
-<!-- STATS SECTION -->
-## 📊 Estatísticas / GitHub Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://github.com/LeoSousaJesus" target="_blank">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LeoSousaJesus&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br" alt="GitHub Stats" height="190" />
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://github.com/LeoSousaJesus" target="_blank">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LeoSousaJesus&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8" alt="Top Langs" height="190" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2" valign="middle">
-        <br>
-        <a href="https://github.com/LeoSousaJesus" target="_blank">
-          <img src="https://streak-stats.demolab.com?user=LeoSousaJesus&locale=pt_BR&theme=tokyonight&hide_border=false&border_radius=5" alt="GitHub Streak Stats" height="180" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
+# Bem-vindo ao meu perfil no GitHub! 👋 Welcome to my GitHub profile!
 <br>
-<hr style="border: 1px solid #1E293B;" />
 
-### 👁️ Visualizações do Perfil / Profile Views
+# 👩🏻‍💻 Leandro Sousa
 
-<div align="center">
-  <img src="https://count.getloli.com/get/@LeoSousaJesus?theme=moebooru" alt="Profile Views" />
-</div>
+**`Desenvolvedor Full Stack Jr.`** / **`Jr. Full Stack Developer`**
+
+<hr style="border: 1px solid #0078d4;"/>
 
 <br>
 
-<p align="center">
-  <sub>Desenvolvido com sofisticação e tecnologia de IA ✨</sub>
+## 🚀 Sobre mim /About Me
+
+Sou um desenvolvedor em constante aprendizado sobre os temas relacionados a tecnologia. Focado em linguagem **Python** com abordagem em  **Ciência de Dados** e **Inteligência Artificial** . Estou aprofundando meus conhecimentos em **Desenvolvimento Web**, **Bancos de Dados**, **Machine Learning** e **Deep Learning**, buscando criar soluções impactantes com o advento da IA.
+
+<hr style="border: 1px solid #0078d4;"/>
+
+<br>
+
+## 👩‍💻 Formação e Estudos / Education and Studies
+- 🎓 Cursando **Graduação em Sistemas de Informação** pela **Universidade UNIPROJEÇÃO**
+- 🤖 **Desenvolvedor Python** (**SENAI**)
+- 🧠 **Python Artificial Intelligence**  (**SENAI**)
+- 💻 **Programador Full Stack (SENAI)**
+- 🔑 **Administrador de Banco de Dados** (**SENAI**)
+- 🌱 Atualmente estudando Desenvolvimento Front-end e Mobile com Java no Android Studio
+
+<hr style="border: 1px solid #0078d4;"/>
+
+<br>
+
+## 🔗 Vamos nos conectar / Let's connect
+
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
+    <a href="https://www.linkedin.com/in/leandro-sousa-de-jesus-885a48405/" target="_blank">
+        <img 
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://medium.com/@seu-usuario" target="_blank">
+        <img 
+            src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+    <a href="https://linktr.ee/seu-usuario" target="_blank">
+        <img 
+            src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+    </a>
+    <a href="https://pin.it/5veZgd4Sq" target="_blank">
+        <img 
+            src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" />
+    </a>
+    <a href="https://open.spotify.com/user/ninjabrasil?si=e6db447b59dc448e" target="_blank">
+        <img 
+            src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+    </a>
+    <a href="https://kaggle.com/seu-usuario" target="_blank">
+        <img 
+            src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=black&style=for-the-badge" height="30" alt="Kaggle" />
+    </a>
+    <a href="https://huggingface.co/seu-usuario" target="_blank">
+        <img 
+            src="https://img.shields.io/badge/HuggingFace-%23FFAE00.svg?style=for-the-badge&logo=huggingface&logoColor=black" 
+            height="30" alt="Hugging Face" 
+        />
+    </a>
+</div>
+
+<hr style="border: 1px solid #0078d4; margin-top: 30px; margin-bottom: 30px;" />
+
+<br>
+
+## 🔧 Habilidades e Tecnologias / Skills and Technologies
+
+<div>
+    <a href="https://www.python.org/doc/" target="_blank">
+        <img
+            align="left"
+            alt="Python" 
+            title="Python"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+        />
+    </a>
+    <a href="https://www.djangoproject.com/start/" target="_blank">
+        <img
+            align="left"
+            alt="Django" 
+            title="Django"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+        />
+    </a>
+    <a href="https://jupyter.org/" target="_blank">
+        <img
+            align="left"
+            alt="Jupyter" 
+            title="Jupyter"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
+        />
+    </a>
+    <a href="https://pandas.pydata.org/docs/" target="_blank">
+        <img
+            align="left"
+            alt="Pandas"
+            title="Pandas"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+        />
+    </a>
+    <a href="https://numpy.org/doc/" target="_blank">
+        <img
+            align="left"
+            alt="Numpy" 
+            title="Numpy"
+            width="30px"
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
+        />
+    </a>
+    <a href="https://plotly.com/" target="_blank">
+        <img
+            align="left"
+            alt="Plotly" 
+            title="Plotly"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" 
+        />
+    </a>
+    <a href="https://seaborn.pydata.org/" target="_blank">
+        <img
+            align="left"
+            alt="Seaborn" 
+            title="Seaborn"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="img/seaborn.svg"
+        />
+    </a>
+    <a href="https://matplotlib.org/stable/contents.html" target="_blank">
+        <img
+            align="left"
+            alt="Matplotlib" 
+            title="Matplotlib"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
+        />
+    </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank">
+        <img
+            align="left"
+            alt="Flask" 
+            title="Flask"
+            width="30px" 
+            style="padding-right: 10px;"
+            src="img/flask-color.svg"
+        />
+    </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank">
+        <img
+            align="left"
+            alt="FastAPI" 
+            title="FastAPI"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
+        />
+    </a>
+    <a href="https://docs.streamlit.io/" target="_blank">
+        <img
+            align="left"
+            alt="Streamlit" 
+            title="Streamlit"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" 
+        />
+    </a>
+    <a href="https://scikit-learn.org/stable/documentation.html" target="_blank">
+        <img
+            align="left"
+            alt="Scikit-learn" 
+            title="Scikit-learn"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
+        />
+    </a>
+    <a href="https://pytorch.org/docs/" target="_blank">
+        <img
+            align="left"
+            alt="Pytorch" 
+            title="Pytorch"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" 
+        />
+    </a>
+    <a href="https://www.tensorflow.org/learn" target="_blank">
+        <img
+            align="left"
+            alt="TensorFlow" 
+            title="TensorFlow"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
+        />
+    </a>
+    <a href="https://mediapipe.dev/" target="_blank">
+        <img
+            align="left"
+            alt="MediaPipe" 
+            title="MediaPipe"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="img/mediapipe-color.svg"
+        />
+    </a>
+    <a href="https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html" target="_blank">
+        <img
+            align="left"
+            alt="OpenCV" 
+            title="OpenCV"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" 
+        />
+    </a>
+    <a href="https://www.markdownguide.org/" target="_blank">
+        <img
+            align="left"
+            alt="Markdown" 
+            title="Markdown"
+            width="30px" 
+            style="padding-right: 10px;"
+            src="img/markdown-color.svg"
+        />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img 
+            align="left"
+            alt="HTML"
+            title="HTML" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+        />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img 
+            align="left" 
+            alt="CSS" 
+            title="CSS"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+        />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img 
+            align="left" 
+            alt="JavaScript" 
+            title="JavaScript"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+        />
+    </a>
+    <a href="https://www.typescriptlang.org/docs/" target="_blank">
+        <img 
+            align="left" 
+            alt="Typescript" 
+            title="Typescript"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+        />
+    </a>
+    <a href="https://nodejs.org/pt" target="_blank">
+        <img 
+            align="left" 
+            alt="NodeJS" 
+            title="NodeJS"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+        />
+    </a>
+    <a href="https://angular.dev/overview" target="_blank">
+        <img 
+            align="left" 
+            alt="Angular" 
+            title="Angular"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+        />
+    </a>
+    <a href="https://reactnative.dev/docs/getting-started" target="_blank">
+        <img 
+            align="left" 
+            alt="React Native" 
+            title="React Native"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg"
+        />
+    </a>
+    <a href="https://getbootstrap.com/docs/" target="_blank">
+        <img 
+            align="left" 
+            alt="Bootstrap"
+            title="Bootstrap" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+        />
+    </a>
+    <a href="https://docs.oracle.com/en/java/" target="_blank">
+        <img 
+            align="left" 
+            alt="Java" 
+            title="Java"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+        />
+    </a>
+    <a href="https://docs.spring.io/spring-boot/" target="_blank">
+        <img 
+            align="left" 
+            alt="Spring" 
+            title="Spring"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+        />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+        <img 
+            align="left" 
+            alt="C#" 
+            title="CSharp"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+        />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank">
+        <img 
+            align="left" 
+            alt=".NET" 
+            title=".NET"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" 
+        />
+    </a>
+    <a href="https://learn.microsoft.com/pt-br/cpp/?view=msvc-170" target="_blank">
+        <img 
+            align="left" 
+            alt="C++" 
+            title="C++"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+        />
+    </a>
+    <a href="https://docs.arduino.cc/" target="_blank">
+        <img 
+            align="left" 
+            alt="Arduino" 
+            title="Arduino"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
+        />
+    </a>
+    <a href="https://www.php.net/docs.php" target="_blank">
+        <img 
+            align="left" 
+            alt="PHP" 
+            title="PHP"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+        />
+    </a>
+    <a href="https://dev.mysql.com/doc/" target="_blank">
+        <img 
+            align="left" 
+            alt="MySQL"
+            title="MySQL" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+        />
+    </a>
+    <a href="https://learn.microsoft.com/pt-br/sql/?view=sql-server-ver17" target="_blank">
+        <img 
+            align="left" 
+            alt="SQL Server"
+            title="SQL Server" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" 
+        />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/azure/" target="_blank">
+        <img 
+            align="left" 
+            alt="Azure"
+            title="Azure" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+        />
+    </a>
+    <a href="https://code.visualstudio.com/docs" target="_blank">
+        <img 
+            align="left" 
+            alt="VScode" 
+            title="VScode"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+        />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/visualstudio/ide/?view=visualstudio" target="_blank">
+        <img 
+            align="left" 
+            alt="Visual Studio" 
+            title="Visual Studio"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
+        />
+    </a>
+    <a href="https://developer.konghq.com/index/insomnia/" target="_blank">
+        <img 
+            align="left" 
+            alt="Insomnia" 
+            title="Insomnia"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" 
+        />
+    </a>
+    <a href="https://jasmine.github.io/" target="_blank">
+        <img 
+            align="left" 
+            alt="Jasmine" 
+            title="Jasmine"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original.svg" 
+        />
+    </a>
+    <a href="https://jmeter.apache.org/usermanual/index.html" target="_blank">
+        <img 
+            align="left" 
+            alt="JMeter" 
+            title="JMeter"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" 
+        />
+    </a>
+    <a href="https://www.selenium.dev/documentation/" target="_blank">
+        <img 
+            align="left" 
+            alt="Selenium" 
+            title="Selenium"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
+        />
+    </a>
+    <a href="https://help.figma.com/hc/pt-br" target="_blank">
+        <img 
+            align="left" 
+            alt="Figma" 
+            title="Figma"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+        />
+    </a>
+    <a href="https://www.notion.so/help" target="_blank">
+        <img 
+            align="left" 
+            alt="Notion" 
+            title="Notion"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
+        />
+    </a>
+    <a href="https://trello.com/guide" target="_blank">
+        <img 
+            align="left" 
+            alt="Trello" 
+            title="Trello"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" 
+        />
+    </a>
+    <a href="https://git-scm.com/doc" target="_blank">
+        <img 
+            align="left" 
+            alt="Git" 
+            title="Git"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+        />
+    </a>
+    <a href="https://github.com/features/actions" target="_blank">
+    <img 
+        align="left" 
+        alt="GitHub Actions" 
+        title="GitHub Actions"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.simpleicons.org/githubactions/2088FF" 
+    />
+</a>
+    
+</div>
+<br><br><br><br>
+
+
+<hr style="border: 1px solid #0078d4;"/>
+
+<br>
+
+## 📊 Estatísticas / Statistics
+
+<p>
+    <img
+        align="center" 
+        alt="GitHub Stats" 
+        height="200" 
+        style="display: block; margin: 10px auto;" 
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=LeoSousaJesus&show_icons=true&theme=dark&hide&include_all_commits=true&locale=pt-br" 
+    />
+<br><br>
+    <img
+        align="center"
+        alt="Gráfico de sequência semanal"
+        height="200"
+        style="display: block; margin: 10px auto;"
+        src="https://streak-stats.demolab.com?user=LeoSousaJesus&locale=pt_BR&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3"
+    />
+<br><br>
+    <img
+        align="center" 
+        alt="Tecnologias Mais Usadas" 
+        height="200"
+        style="display: block; margin: 10px auto;"
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leosousajesus&theme=dark&hide&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
 </p>
+<br style="clear: both;" />
+<hr style="border: 1px solid #0078d4;"/>
+
+### 👁️ Visualizações do perfil / Profile Views
+
+<div align="center">
+  <img src="https://count.getloli.com/get/@LeoSousaJesus?theme=moebooru" alt="LeoSousaJesus" />
+</div>
