@@ -535,6 +535,16 @@ Sou um desenvolvedor em constante aprendizado sobre os temas relacionados a tecn
 </div>
 <br><br><br><br>
 
+<hr style="border: 1px solid #0078d4;"/>
+
+<br>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="trophy.svg" alt="GitHub Trophies" />
+  </a>
+</p>
 
 <hr style="border: 1px solid #0078d4;"/>
 
