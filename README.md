@@ -441,6 +441,16 @@ Sou um desenvolvedor em constante aprendizado sobre os temas relacionados a tecn
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
         />
     </a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+            <img 
+                align="left" 
+                alt="PyCharm" 
+                title="PyCharm"
+                width="30px" 
+                style="padding-right: 10px;" 
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" 
+            />
+        </a>
     <a href="https://developer.konghq.com/index/insomnia/" target="_blank">
         <img 
             align="left" 
