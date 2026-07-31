@@ -448,9 +448,19 @@ Sou um desenvolvedor em constante aprendizado sobre os temas relacionados a tecn
                 title="PyCharm"
                 width="30px" 
                 style="padding-right: 10px;" 
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" 
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
             />
-        </a>
+    </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank">
+            <img 
+                align="left" 
+                alt="IntelliJ IDEA" 
+                title="IntelliJ IDEA"
+                width="30px" 
+                style="padding-right: 10px;" 
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
+            />
+    </a>
     <a href="https://developer.konghq.com/index/insomnia/" target="_blank">
         <img 
             align="left" 
