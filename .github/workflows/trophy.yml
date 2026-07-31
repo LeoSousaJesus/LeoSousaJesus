@@ -22,6 +22,7 @@ jobs:
         with:
           username: LeoSousaJesus
           output_path: ./trophy.svg
+          theme: onedark
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push if changed
